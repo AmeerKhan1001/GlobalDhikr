@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949187258827",
+    "firebase_url": "https://global-dhikr.firebaseio.com",
+    "project_id": "global-dhikr",
+    "storage_bucket": "global-dhikr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949187258827:android:e0a5bec9f172bea6872e4e",
+        "android_client_info": {
+          "package_name": "in.prince.global_dhikr_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949187258827-gur097rn649jcfqn0ohq9qtddcslm2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwQ-yUCRPvcEiaG0Sv4J2BGpmbeHMZ_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949187258827-gur097rn649jcfqn0ohq9qtddcslm2t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
